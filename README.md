@@ -1,4 +1,4 @@
-# Hi!ckathon #5: AI & Sustainability 🌲
+# Hi!ckathon #6:
 
 
 ## About the Hi! PARIS Hi!ckathon
@@ -6,7 +6,7 @@ The **Hi!ckathon** is a competitive AI and Data Science challenge organized by *
 
 The AI competition is open to students from Institut Polytechnique de Paris, HEC Paris as well as other french and international universities.
 
-The H!ckathon #5 is split into a 3 week preparation **pre-Hi!ckathon phase** (courses + Career Fair) and a **final sprint**, taking place November 29th to December 2nd 2024. 
+The H!ckathon #5 is split into a 3 week preparation **pre-Hi!ckathon phase** (courses + Career Fair) and a **final sprint**, taking place November 28th to December 1st 2025. 
 
 
 **Visit the Hi!ckathon website**: https://www.hi-paris.fr/hickathon/
